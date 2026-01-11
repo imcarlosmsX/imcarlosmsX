@@ -44,9 +44,6 @@ I'm a passionate full-stack developer with expertise in modern web technologies 
 - 💼 LinkedIn: https://www.linkedin.com/in/carlos-mendoza-a77272322/
 - 📧 Email: mendozac744@gmail.com
   
-### 📊 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=imcarlosmsX&show_icons=true&theme=radical)
 
 ---
 
