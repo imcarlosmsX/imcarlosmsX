@@ -1,6 +1,7 @@
 # Hi, I'm Carlos Mendoza 👋
 
 **Systems & Computer Engineer · Full-Stack Developer**
+
 I design and build serverless backends that scale without falling over — and the interfaces that use them.
 
 📍 Barranquilla, Colombia · 🌎 Remote with teams in the US and Colombia · 🗣️ Spanish (native), English (B2)
